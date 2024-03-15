@@ -2,9 +2,8 @@ I'm Sahil Gajjar, a computer science student in my final year of college. I have
 
 And here are all the stuff i like in computer science
 
+- C (ofcourse nothing is better than c !)
+- Java (Object-Oriented Programming & DSA & Spring Boot)
+- Linux (System Administration)
 - JavaScript (Web Development)
 - Python (Django)
-- C (Data Structures and Algorithms)
-- Java (Object-Oriented Programming & DSA)
-- Linux (System Administration)
-
