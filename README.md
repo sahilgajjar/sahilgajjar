@@ -1,9 +1,5 @@
-I'm Sahil Gajjar, a computer science student in my final year of college. I have a strong passion for exploring various areas of computer science and constantly expanding my knowledge in the field. This GitHub repository serves as a platform to share my projects, learning experiences, and contributions to the open-source community.
-
-And here are all the stuff i like in computer science
-
-- C (ofcourse nothing is better than c !)
-- Java (Object-Oriented Programming & DSA & Spring Boot)
-- Linux (System Administration)
-- JavaScript (Web Development)
-- Python (Django)
+- 👋 Hi, I’m sahil !
+- 👀 I’m interested & learning java, spring boot, js, gradle, maven, strapi, and last but not the least C (cause nothing is better than C 🙃)
+- 📫 How to reach me (i guess you've already reached me !)
+- 😄 Pronouns: he/him ! (ofCourse!)
+- ⚡ Fun fact: i love linux and i use vim btw !
