@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sahil !
-- 👀 I’m interested & learning java, spring boot, js, gradle, maven, strapi, and last but not the least C (cause nothing is better than C 🙃)
+- 👀 I’m interested & learning java, spring boot, js, gradle, maven, strapi, GraphQL, Rest API and last but not the least C (cause nothing is better than C 🙃)
 - 📫 How to reach me (i guess you've already reached me !)
 - 😄 Pronouns: he/him ! (ofCourse!)
-- ⚡ Fun fact: i love linux and i use vim btw !
+- ⚡ Fun fact: i love linux !
