@@ -1,5 +1,6 @@
 - 👋 Hi, I’m sahil !
-- 👀 I’m interested & learning java, spring boot, js, gradle, maven, strapi, GraphQL, Rest API and last but not the least C (cause nothing is better than C 🙃)
-- 📫 How to reach me (i guess you've already reached me !)
-- 😄 Pronouns: he/him ! (ofCourse!)
+- 👀 I’m am currenlty working on java with spring boot & build tools gradle for creating REST API & GRAPHQL services for the backend
+- 📖 I'm also actively learning technologies including javascript, strapi, hugo, & webhooks 
+- 📫 How to reach me (send me mail at [📧](sahilgajjar504@gmail.com) )
+- 😄 Pronouns: he/him ! (Of_Course!)
 - ⚡ Fun fact: i love linux !
